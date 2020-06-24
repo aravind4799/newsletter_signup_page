@@ -9,11 +9,13 @@ A simple web application which gets the user name and email address and uses the
 MAILCHIMP API,
 to reach out to his subscriber 
 
+the developer get access to the credentials of the users who signed up ,using mailchip api
+
 ##TECH USED:
 
-Nodejs-EXPRESS , used to build the backend of this application
+Nodejs-EXPRESS(framework) , used to build the backend of this application
 
-SIMPLE bootstrap Templates with some customisation were used to build the starting page,success page and the failure page.
+
 
 website was hosted live in WWW using HEROKU.
 
